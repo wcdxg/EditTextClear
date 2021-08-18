@@ -12,7 +12,10 @@
 implementation 'com.wcdxg.edittextclear:editTextClear:1.0.0'
 ```
 
-#### 2.xml中使用 | 参数 | 说明 | | --- | --- | | clearIcon | 删除图标 |
+#### 2.xml中使用 
+| 参数 | 说明 | 
+| --- | --- | 
+| clearIcon | 删除图标 |
 
 ```
  <com.wcdxg.edittextclear.EditTextWithClear
